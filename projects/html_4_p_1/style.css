@@ -1,0 +1,48 @@
+
+#main{
+    font-size: 20px;
+    text-align: center;
+    font-family: Monospace;
+    
+  }
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #img-div {
+    background: white;
+    padding: 10px;
+    margin: 0;
+  }
+  
+  
+  #tribute-info{
+    width: 50%;
+    text-align: left;
+    
+    margin:auto;
+  }
+  ul{
+    margin-top: 15px;
+    margin-bottom: 75px;
+    padding-top: 45px;
+    background-color: #f1f1f1;
+  }
+  h1{
+  
+    margin-top: 200px;
+    margin-bottom: 100px;
+  }
+  #image:hover {
+   
+    max-width: 100%;
+    display:inline;
+    
+  }
+  
+  h4{
+    margin-bottom: 300px;
+  }
