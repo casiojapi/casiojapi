@@ -135,11 +135,16 @@ header a:hover{
     display:grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 1em;
-    padding-top: 100px;
+    padding-top: 35px;
     padding-bottom: 50px;
     text-align: center;
     background-color: rgba(8, 8, 7, 0.24); 
 
+}
+
+#bg {
+  height: auto;
+  width: 50%;
 }
 
 .wrapper > div{
