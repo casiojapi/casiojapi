@@ -10,6 +10,7 @@ body{
     width: 75%;
     margin: auto;
     overflow: hidden;
+    
 }
 ul{
     margin:0;
@@ -82,9 +83,9 @@ header a:hover{
     
 }
 #showcase h1{
-    margin-top: 100px;
+    margin-top: 40px;
     font-size: 55px;
-    margin-bottom:10px;
+    margin-bottom:30px;
     
 
 }
@@ -96,7 +97,7 @@ header a:hover{
 #newsletter{
     padding:45px;
     color:#0d1218;
-    background:#fff1c3;
+    background:#f1c3;
 }
 
 #newsletter h1{
@@ -138,7 +139,7 @@ header a:hover{
     padding-top: 35px;
     padding-bottom: 50px;
     text-align: center;
-    background-color: rgba(8, 8, 7, 0.24); 
+   /* background-color: rgba(8, 8, 7, 0.24); */
 
 }
 
