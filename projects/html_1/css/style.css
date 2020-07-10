@@ -142,10 +142,13 @@ header a:hover{
    /* background-color: rgba(8, 8, 7, 0.24); */
 
 }
-
+#comment{
+    padding-bottom: 50px;
+}
 #bg {
   height: auto;
   width: 50%;
+  margin: 2.5em;
 }
 
 .wrapper > div{
