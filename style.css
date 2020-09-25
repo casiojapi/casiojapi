@@ -1,0 +1,17 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #eee;
+    width: 75vw;
+    margin: auto;
+    font-size: 1.4em;
+}
+.intro{
+    padding: 3em;
+}
+
+.repo{
+    padding: 1em;
+    width: 50%;
+    align-items: center;
+    margin: auto;
+}
