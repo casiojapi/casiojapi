@@ -1,6 +1,6 @@
 const APIURL = "https://api.github.com/users/";
 
-get_repos("maximop2p");
+get_repos("maximosan");
 
 async function get_repos(username) {
     const resp = await fetch(APIURL + username + "/repos");
